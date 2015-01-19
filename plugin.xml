@@ -53,6 +53,6 @@
       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     </config-file>
     <source-file src="android/UniversalAnalyticsPlugin.java" target-dir="src/com/danielcwilson/plugins/analytics" />
-    <source-file src="android/libGoogleAnalyticsServices.jar" target-dir="libs" />
+    <source-file src="android/google-play-services.jar" target-dir="libs" />
   </platform>
 </plugin>
